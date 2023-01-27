@@ -1,0 +1,11 @@
+INDEX VERSION 1.131
+C:\Users\gouta\Documents\workspace-spring-tool-suite-4-4.17.1.RELEASE\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4094720279.index
+\MyWebApp\src\main\java
+C:\Users\gouta\Documents\workspace-spring-tool-suite-4-4.17.1.RELEASE\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3003590742.index
+\boot_JPA\src\main\java
+C:\Users\gouta\Documents\workspace-spring-tool-suite-4-4.17.1.RELEASE\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1157584762.index
+\MyWebApp\src\main\java
+C:\Users\gouta\Documents\workspace-spring-tool-suite-4-4.17.1.RELEASE\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\199751800.index
+\MyWebApp\src\main\java
+C:\Users\gouta\Documents\workspace-spring-tool-suite-4-4.17.1.RELEASE\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1382809798.index
+\MyWebApp\src\main\java

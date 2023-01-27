@@ -1,0 +1,5 @@
+insert into alien value(101,'a');
+insert into alien value(102,'b');
+insert into alien value(103,'c');
+insert into alien value(104,'d');
+insert into alien value(105,'e');

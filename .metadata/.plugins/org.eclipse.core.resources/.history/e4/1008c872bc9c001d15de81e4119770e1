@@ -1,0 +1,38 @@
+package com.example.demo;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+import jakarta.servlet.http.HttpServletRequest;
+
+@Controller
+public class HomeController {
+//	@RequestMapping("Home")
+//	public String home() {
+//		System.out.println("hi");
+//		return "Home";
+//	}
+	
+	
+	
+//	@RequestMapping("Home")
+//	public String home(HttpServletRequest req) {
+//		
+//		String name = req.getParameter("name");
+//		System.out.println("hi  " + name);
+//		req.setAttribute("name", name);
+//		return "Home";
+//	}
+
+	
+	
+	
+	@RequestMapping("Home")
+	public String home(HttpServletRequest req) {
+		
+		String name = req.getParameter("name");
+		System.out.println("hi  " + name);
+		req.setAttribute("name", name);
+		return "Home";
+	}
+}

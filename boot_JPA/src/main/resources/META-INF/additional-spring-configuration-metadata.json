@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "Spring.h2.console.enabled",
+    "type": "java.lang.String",
+    "description": "A description for 'Spring.h2.console.enabled'"
+  },
+  {
+    "name": "spring.datasources.platform",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasources.platform'"
+  }
+]}
